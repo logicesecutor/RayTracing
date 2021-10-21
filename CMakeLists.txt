@@ -3,4 +3,4 @@ project(RayTracing)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(RayTracing main.cpp)
+add_executable(RayTracing main.cpp main.cpp)
